@@ -66,7 +66,7 @@ data-analyst-agent/
    
    Then edit `.env` and add your Together.ai API key:
    ```
-   TOGETHERAI_API_KEY=442bbd72dcf120871851485a63ba10d6942243524d837ce2e475868db60d772e
+   TOGETHERAI_API_KEY=442bbd72dcf120871851485a63ba10d6942243524d837csskjnsd332iow
    ```
    ⚠️ **Important**: Replace the example key above with your actual API key from Together.ai
 
